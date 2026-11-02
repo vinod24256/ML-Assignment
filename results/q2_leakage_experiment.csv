@@ -1,0 +1,9 @@
+Model,Split,MSE,RMSE,R2,R (Pearson)
+Ridge (CV α),Subject-wise (honest),99.95571,9.99779,-0.2063,0.13593
+Ridge (CV α),Random rows (leaky),95.25888,9.76007,0.14036,0.39446
+Lasso (CV α),Subject-wise (honest),106.0178,10.29649,-0.27946,0.10051
+Lasso (CV α),Random rows (leaky),100.35795,10.01788,0.09435,0.32867
+Polynomial deg 1 (top-5),Subject-wise (honest),130.49857,11.4236,-0.5749,0.10436
+Polynomial deg 1 (top-5),Random rows (leaky),98.19056,9.90911,0.11391,0.34016
+Random Forest (extra),Subject-wise (honest),179.44246,13.39561,-1.16557,-0.03454
+Random Forest (extra),Random rows (leaky),2.50003,1.58115,0.97744,0.98908

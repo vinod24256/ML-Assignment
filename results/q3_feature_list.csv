@@ -1,0 +1,67 @@
+feature
+is_movie
+release_year
+added_year
+movie_minutes
+tv_seasons
+rating_Adult
+rating_Family
+rating_Kids
+rating_Teen
+rating_Unrated
+genre_International Movies
+genre_Dramas
+genre_Comedies
+genre_International TV Shows
+genre_Documentaries
+genre_Action & Adventure
+genre_TV Dramas
+genre_Independent Movies
+genre_Children & Family Movies
+genre_Romantic Movies
+genre_TV Comedies
+genre_Thrillers
+genre_Crime TV Shows
+genre_Kids' TV
+genre_Docuseries
+genre_Music & Musicals
+genre_Romantic TV Shows
+genre_Horror Movies
+genre_Stand-Up Comedy
+genre_Reality TV
+genre_British TV Shows
+genre_Sci-Fi & Fantasy
+genre_Sports Movies
+genre_Anime Series
+genre_Spanish-Language TV Shows
+genre_TV Action & Adventure
+genre_Korean TV Shows
+genre_Classic Movies
+genre_LGBTQ Movies
+genre_TV Mysteries
+genre_Science & Nature TV
+genre_TV Sci-Fi & Fantasy
+genre_TV Horror
+genre_Anime Features
+genre_Cult Movies
+genre_Teen TV Shows
+genre_Faith & Spirituality
+genre_TV Thrillers
+genre_Movies
+genre_Stand-Up Comedy & Talk Shows
+country_United States
+country_India
+country_United Kingdom
+country_Canada
+country_France
+country_Japan
+country_Spain
+country_South Korea
+country_Germany
+country_Mexico
+country_China
+country_Australia
+country_Egypt
+country_Turkey
+country_Hong Kong
+country_Unknown

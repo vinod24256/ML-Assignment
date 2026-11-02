@@ -1,0 +1,11 @@
+.venv/
+data/*
+!data/README.txt
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.zip
+VIVA_GUIDE.md
+ANTIGRAVITY_PROMPT.md
+desktop.ini
+verify_pdf_result.txt

@@ -1,0 +1,41 @@
+{
+  "data_source": "C:\\Users\\user\\OneDrive\\Desktop\\ml_assignment/data\\netflix_titles.csv",
+  "n_titles": 8807,
+  "n_features": 66,
+  "numeric_features": [
+    "release_year",
+    "added_year",
+    "movie_minutes",
+    "tv_seasons"
+  ],
+  "n_genres": 40,
+  "countries": [
+    "United States",
+    "India",
+    "United Kingdom",
+    "Canada",
+    "France",
+    "Japan",
+    "Spain",
+    "South Korea",
+    "Germany",
+    "Mexico",
+    "China",
+    "Australia",
+    "Egypt",
+    "Turkey",
+    "Hong Kong"
+  ],
+  "use_text_features": false,
+  "elbow_auto_2_6": 4,
+  "elbow_auto_1_10": 3,
+  "best_silhouette_k_2_6": 2,
+  "K_final": 4,
+  "pcs_for_80_90_95": {
+    "80": 12,
+    "90": 23,
+    "95": 34
+  },
+  "variance_2pcs": 0.4236349879311131,
+  "variance_3pcs": 0.5409786136639516
+}

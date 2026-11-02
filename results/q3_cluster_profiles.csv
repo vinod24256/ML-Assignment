@@ -1,0 +1,5 @@
+cluster,size,share %,% movies,median release yr,median movie min,median TV seasons,top rating group,top genres (share),most distinctive genres (lift),top countries
+0,3286,37.3,100.0,2018.0,99.0,,Adult,"International Movies 45%, Dramas 41%, Comedies 30%","Romantic Movies ×1.7, Children & Family Movies ×1.7, Thrillers ×1.6","United States 43%, India 13%"
+1,572,6.5,96.9,1992.0,109.0,1.0,Teen,"Dramas 41%, Comedies 33%, International Movies 32%","Classic Movies ×15.3, Cult Movies ×10.4, Action & Adventure ×3.0","United States 60%, India 18%"
+2,2655,30.1,0.0,2018.0,,1.0,Adult,"International TV Shows 51%, TV Dramas 29%, TV Comedies 22%","Romantic TV Shows ×3.3, Korean TV Shows ×3.3, TV Action & Adventure ×3.3","United States 35%, Unknown 15%"
+3,2294,26.0,99.9,2016.0,95.0,1.0,Adult,"International Movies 47%, Dramas 38%, Comedies 22%","Stand-Up Comedy ×2.2, Documentaries ×2.0, Independent Movies ×1.6","United States 43%, India 19%"

@@ -1,0 +1,32 @@
+{
+  "KNN": {
+    "best_params": {
+      "knn__metric": "manhattan",
+      "knn__n_neighbors": "4",
+      "knn__weights": "distance"
+    }
+  },
+  "Decision Tree": {
+    "best_params": {
+      "ccp_alpha": "0.0",
+      "criterion": "entropy",
+      "max_depth": "8",
+      "min_samples_leaf": "1"
+    },
+    "unpruned_train_acc": 0.9994117647058823,
+    "unpruned_test_acc": 0.9014084507042254
+  },
+  "SVM (RBF)": {
+    "best_params": {
+      "C": "100",
+      "gamma": "0.03"
+    }
+  },
+  "1D CNN (bonus)": {
+    "epochs_trained": 41
+  },
+  "best_by_roc_auc": "SVM (RBF)",
+  "data_source": "ucimlrepo (UCI id=193)",
+  "n_train": 1700,
+  "n_test": 426
+}

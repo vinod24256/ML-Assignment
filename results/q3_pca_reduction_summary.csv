@@ -1,0 +1,3 @@
+components,shape,variance retained %,reconstruction MSE,dims removed
+2,"(8807, 2)",42.363499,0.066191,64
+3,"(8807, 3)",54.097861,0.052715,63

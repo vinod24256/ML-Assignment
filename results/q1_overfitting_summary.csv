@@ -1,0 +1,5 @@
+,Accuracy – train,F1 (macro) – train,Accuracy – test,F1 (macro) – test,Accuracy gap (train−test),F1 (macro) gap (train−test),ROC-AUC (OvR macro) gap (train−test)
+KNN,0.999412,0.999166,0.910798,0.825468,0.088614,0.173699,0.046898
+Decision Tree,0.98,0.968233,0.915493,0.832062,0.064507,0.13617,0.081315
+SVM (RBF),0.980588,0.968394,0.91784,0.844952,0.062748,0.123442,0.028498
+1D CNN (bonus),0.959412,0.927443,0.882629,0.798099,0.076783,0.129344,0.040874

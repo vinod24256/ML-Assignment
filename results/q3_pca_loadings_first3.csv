@@ -1,0 +1,67 @@
+,PC1,PC2,PC3
+is_movie,0.28617,0.04234,0.05124
+release_year,-0.25063,0.5872,0.72802
+added_year,-0.02636,0.78095,-0.60818
+movie_minutes,0.64081,0.09697,-0.00156
+tv_seasons,-0.57135,-0.12546,-0.25529
+rating_Adult,-0.00025,0.06105,0.09434
+rating_Family,0.00595,-0.03135,-0.01721
+rating_Kids,-0.04537,-0.00497,-0.01269
+rating_Teen,0.03655,-0.0126,-0.07231
+rating_Unrated,0.00313,-0.01214,0.00788
+genre_International Movies,0.16452,0.0543,0.05247
+genre_Dramas,0.15213,0.03915,0.00252
+genre_Comedies,0.0899,0.02494,-0.03053
+genre_International TV Shows,-0.13716,-0.01378,-0.00035
+genre_Documentaries,0.02264,-0.01205,0.05278
+genre_Action & Adventure,0.05335,-0.00066,-0.0439
+genre_TV Dramas,-0.08588,-0.01304,-0.00661
+genre_Independent Movies,0.03761,0.01025,0.02518
+genre_Children & Family Movies,0.01614,0.00692,-0.0022
+genre_Romantic Movies,0.03611,0.01804,-0.01114
+genre_TV Comedies,-0.06851,-0.01169,-0.01956
+genre_Thrillers,0.02853,0.0194,0.01075
+genre_Crime TV Shows,-0.05121,-0.00343,0.00102
+genre_Kids' TV,-0.04995,-0.01097,-0.01901
+genre_Docuseries,-0.03722,-0.00456,0.00185
+genre_Music & Musicals,0.0191,0.00038,0.00393
+genre_Romantic TV Shows,-0.03648,-0.00965,-0.00147
+genre_Horror Movies,0.01455,0.00641,0.00417
+genre_Stand-Up Comedy,0.00398,-0.01043,0.02879
+genre_Reality TV,-0.02579,0.00505,-0.0066
+genre_British TV Shows,-0.0272,-0.01056,-0.00141
+genre_Sci-Fi & Fantasy,0.01203,-0.0004,-0.00482
+genre_Sports Movies,0.00867,-0.00057,0.00783
+genre_Anime Series,-0.01753,-0.00147,-0.00833
+genre_Spanish-Language TV Shows,-0.01838,0.00209,-0.00197
+genre_TV Action & Adventure,-0.02074,-0.00056,-0.00684
+genre_Korean TV Shows,-0.01444,-0.00399,0.00161
+genre_Classic Movies,0.01345,-0.02841,-0.05061
+genre_LGBTQ Movies,0.00365,0.0037,0.00438
+genre_TV Mysteries,-0.01159,0.00035,-0.00178
+genre_Science & Nature TV,-0.00834,-0.00359,0.00184
+genre_TV Sci-Fi & Fantasy,-0.0106,-0.00177,-0.00551
+genre_TV Horror,-0.00861,0.00033,-0.00115
+genre_Anime Features,0.00301,0.00106,-0.00292
+genre_Cult Movies,0.00539,-0.00786,-0.01585
+genre_Teen TV Shows,-0.00822,-0.00017,-0.00443
+genre_Faith & Spirituality,0.00299,0.00115,0.00208
+genre_TV Thrillers,-0.00658,-0.00065,-0.0006
+genre_Movies,-0.00012,-0.00249,0.00357
+genre_Stand-Up Comedy & Talk Shows,-0.00592,-0.00188,0.00125
+country_United States,-0.00073,-0.05233,-0.05498
+country_India,0.06648,-0.00302,-4e-05
+country_United Kingdom,-0.00599,-0.01373,0.00269
+country_Canada,-0.00512,-0.0037,0.00437
+country_France,0.00577,-0.00071,0.00439
+country_Japan,-0.01453,-0.00488,-0.00766
+country_Spain,0.00092,0.00395,0.01245
+country_South Korea,-0.01345,0.00043,0.00428
+country_Germany,0.00465,0.00177,0.00035
+country_Mexico,-0.00195,-0.00115,0.00645
+country_China,0.00088,0.00064,0.00515
+country_Australia,-0.0031,-0.00299,0.00032
+country_Egypt,0.00536,0.00112,-0.0091
+country_Turkey,0.00143,0.0023,0.00074
+country_Hong Kong,0.00634,-0.00793,-0.00636
+country_Unknown,-0.02527,0.04691,-0.00734
